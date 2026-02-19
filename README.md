@@ -34,17 +34,18 @@ README.md
 1️⃣ Clone the Repository : 
 cd your-repo-name
 
-2️⃣ Create Virtual Environment (Recommended)
+2️⃣ Create Virtual Environment (Recommended) : 
 python -m venv venv
+
 venv\Scripts\activate   
 
-3️⃣ Install Dependencies
+3️⃣ Install Dependencies : 
 pip install -r requirements.txt
 
-4️⃣ Add Your API Key
+4️⃣ Add Your API Key : 
 GOOGLE_API_KEY=your_api_key_here
 
-5️⃣ Run the Application
+5️⃣ Run the Application : 
 streamlit run app.py
 
 🏗 How It Works
