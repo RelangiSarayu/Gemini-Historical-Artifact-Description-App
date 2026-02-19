@@ -15,17 +15,19 @@ The Gemini Historical Artifact Description App is a Streamlit-based web applicat
 📂 Project Structure
 
 Gemini-Historical-Artifact-Description-App/
-│
-├── app.py
-├── test_models.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+app.py
+
+test_models.py
+
+requirements.txt
+
+README.md
+
+.gitignore
 
 ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository : 
-git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
 2️⃣ Create Virtual Environment (Recommended)
@@ -43,10 +45,14 @@ streamlit run app.py
 
 🏗 How It Works
 
-User enters artifact topic and optionally uploads an image.
+User enters artifact topic and uploads an image.
+
 The prompt is structured as a historian-style instruction.
+
 The Gemini 2.5 Flash model processes the input.
+
 The model generates a detailed artifact description.
+
 The result is displayed in the Streamlit interface.
 
 
