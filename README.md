@@ -7,9 +7,13 @@ The Gemini Historical Artifact Description App is a Streamlit-based web applicat
 🚀 Features
 
 📝 Text-based artifact description generation
+
 🖼 Image + prompt-based multimodal generation
+
 ⚡ Powered by Gemini 2.5 Flash
+
 🎨 Interactive UI built with Streamlit
+
 📜 Structured historian-style output
 
 📂 Project Structure
